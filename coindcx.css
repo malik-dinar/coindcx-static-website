@@ -1,0 +1,356 @@
+body{
+   margin: 0px;
+   margin-top: 0px;
+   overflow-x: hidden;
+}
+
+
+
+.header{
+    width: 100%;
+    height: 143px;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    background-color: #fff;
+   
+}
+.headlogo{
+    width: 264px;
+    height: 143px;
+    margin-left: 272px;
+    float: left;
+}
+.logoimg{
+    width: 241px;
+    margin-top: 43px
+}
+.head-text-div{
+    height: 143px;
+    width: 42%;
+    margin-left: 799px;
+    position: absolute;
+}
+.navmid{
+    list-style-type: none;
+    margin: 0px;
+}
+.navtext{
+    float: left;
+    padding: 56px;
+    font-size: 25px;
+    font-family:sans-serif;
+}
+li:hover{
+    color: red;
+}
+.head-right{
+    height: 80px;
+    width: 20%;
+    margin-left: 72%;
+    padding-top: 28px;
+}
+.head-right-text{
+    font-size: 26px;
+    margin-left: 11px;
+    font-family: system-ui;
+}
+.coindcx-btn{
+    width: 218px;
+    height: 72px;
+    font-size: 21px;
+    background: #fa4a29;
+    color: #fff;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.body-head{
+    background-color: #fff;
+    height: 296px;
+}
+.para1{
+    margin: 0px;
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+    padding-top: 98px;
+    color: #1c2951;
+}
+.body-head2{
+    background: #fff;
+    height: 130px;
+}
+
+.para2{
+    text-align: center;
+    margin: 0px;
+    font-size: 27px;
+    font-family: sans-serif;
+}
+.bodyhead3{
+    height: 200px;
+    background-color: #fff;
+}
+.qr{
+    width: 183px;
+   
+}
+.appstore {
+    width: 276px;
+    padding-bottom: 86px;
+    margin-left: 1073px;
+    position: absolute;
+}
+.play{
+    width: 276px;
+    margin-left: 1073px;
+}
+.mobile-bg{
+    height: 1537px;
+    background-color: rgb(205 203 203 / 20%);
+  /*  overflow-x: hidden; */
+}
+.mobilebg{
+    position: absolute;
+}
+.imgfirst{
+    position: absolute;
+    overflow-x: hidden;
+}
+.phone{
+    width: 424px;
+    margin-left: 1216px;
+    margin-top: 337px;
+    position: relative;
+}
+.graph-bg{
+    background-color:  #fff;
+}
+.graph-hd{
+    background-color:  #fff;
+    height: 224px;
+    width: 35%;
+    position: relative;
+    font-size: 73px;
+    margin-left: 288px;
+}
+.para3{
+    margin: 0px;
+    font-family: sans-serif;
+    color: #1c2951;
+}
+.graph-sbh{
+    height: 145px;
+    background-color:  #fff;
+    width: 35%;
+    margin-left: 287px;
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
+.table1{
+    background-color:  #fff;
+    height: 710px;
+    width: 38%;
+    margin-left: 283px;
+    position: absolute
+}
+.th{
+    font-size: 40px;
+    text-align: left;
+    padding-top: 55px;
+    font-family: sans-serif;
+}
+.td{
+    font-size: 32px;
+    font-family: sans-serif;
+}
+.img4{
+    height: 710px;
+    background-color: #fff;
+    margin-left: 1278px;
+}
+.imgthree{
+    width: 100%;
+    height :632px;
+}
+.imgone-1{
+    width: 28%;
+    height: 100%;
+    margin-left: 236px;
+    float: left;
+   
+}
+.imgtwo-1{
+    height: 100%;
+    width: 28%;
+    float: left;
+}
+.imgthree-1{
+    height: 48%;
+    width: 28%;
+    position: absolute;
+    left: 65%;
+}
+.pics{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 60%;
+}
+.head3{
+    color: black;
+   text-align: center;
+    font-family: sans-serif;
+}
+
+.para33{
+    font-size: 32px;
+    margin-left: 136px;
+    font-family: sans-serif;
+    color: grey;
+}
+.graph2{
+    height: 500px;
+}
+.gragh2-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 74%;
+}
+.heading2{
+    height: 155px;;
+}
+.heading2-text{
+    text-align: center;
+    font-size: 66px;
+    font-family: sans-serif;
+    color: #1c2951;
+}
+.heading3{
+    height: 215px;
+    
+}
+.inverstors-logo{
+    height: 400px;
+   
+}
+.logo-1{
+  
+    height: 300px;
+    width: 15%;
+    float: left;
+    margin-left: 235px;
+}
+.logo-4{
+    width: 382px;
+}
+.box-div{
+    height: 692px;
+}
+.box{
+    width: 75%;
+    height: 550px;
+    background: radial-gradient(43.75% 98.71% at 50% 50%,#1C2951 0%,#111B37 100%);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+.inside-box{
+    width: 611px;
+    height: 506px;
+    margin-top: 10px;
+    margin-left: 32px;
+    float: left;
+}
+.logo-5{
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-top: 41px;
+    margin-right: auto;
+}
+.logo-5-head{
+    font-size: 37px;
+   text-align: center;
+   font-family: sans-serif;
+   color: #fff;
+}
+.para-under-logo5{
+    text-align: center;
+    font-size: 29px;
+    font-family: sans-serif;
+    color: darkgray;
+}
+.button1{
+    width: 219px;
+    height: 111px;
+    margin-left: 189px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.head-5{
+    height: 300px;
+}
+.footer{
+    height: 900px;
+}
+.footer-left{
+    width: 343px;
+    position: relative;
+    height: 100%;
+    float: left;
+    margin-left: 269px;
+}
+.footer-right{
+    float: left;
+    width: 1895px;
+    height: 100%;
+}
+.para-footer{
+    font-size: 30px;
+    color: #1c2951;
+    font-family: sans-serif;
+    line-height: 2.4rem;
+}
+.coindcx-logo{
+    width: 264px;
+    height: 143px;
+}
+.footer-logo{
+    width: 82px;
+    padding-top: 54px;
+}
+th{
+    font-size: 51px;
+}
+.footer-right-left{
+    width: 500px;
+    height: 100%;
+    float: left;
+}
+.footer-rigth-head{
+    font-size: 47px;
+    margin-left: 50px;
+    margin-top: 54px;
+    font-family: sans-serif;
+}
+
+ul{
+    font-size: 33px;
+    list-style-type: none;
+}
+.dot{
+    list-style-type: disc;
+}
+li{
+    font-family: sans-serif;
+}
